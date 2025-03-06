@@ -35,9 +35,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### 🔝 Top Contributed Repo
-
-<!-- This section is temporarily disabled due to issues with the service -->
-
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=SHRISIVAJ&limit=5&theme=blue-green&combine_all_yearly_contributions=true) -->
-
