@@ -3,9 +3,11 @@
 🎓 I’m currently in my final year pursuing B.Tech in **Artificial Intelligence & Data Science** at **Erode Sengunthar Engineering College** (2021–2025).  
 🔭 I’m passionate about building intelligent systems that solve real-world problems using AI.  
 🚀 I’m continuously learning and building projects in **Machine Learning**, **LLMs**, **AR/VR**, and **Web Development**.  
+🧑‍💼 **Ex-Intern at SENA (Chennai)** – Worked as an **LLM Engineer Intern** for 2 months, developing real-time AI chatbots, auto-evaluation platforms, and CRM-integrated solutions.  
 🤝 Open to collaborating on exciting **AI**, **Data Science**, or **Full-Stack** development projects.  
 💬 Ask me about **Python**, **ML/DL**, **LLMs**, **NLP**, and **Web APIs**.  
 ⚡ Fun fact: I’m a builder by passion and love exploring new innovations in AI!
+
 
 ---
 
