@@ -23,17 +23,53 @@
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks**  
-`Python`, `JavaScript`, `HTML5`, `CSS3`, `R`, `C`, `React.js`, `Flask`, `Django`, `Node.js`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-**AI / ML / DL**  
-`Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `OpenCV`, `NLP (SpaCy, NLTK)`, `LangChain`, `Hugging Face`, `LLMs (GPT-4, PaLM2, Mistral, LLaMA)`, `Stable Diffusion`, `RAG`, `MLFlow`
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-**Data Tools**  
-`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Power BI`, `MySQL`, `DBeaver`, `Google Colab`, `Jupyter Notebook`
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP(SpaCy/NLTK)-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1E4DD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GPT4/PaLM2/Mistral/LLaMA-black?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-232323?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FFB6C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLFlow-2C2E3E?style=for-the-badge"/>
 
-**Other Tools & Platforms**  
-`Firebase`, `Streamlit`, `Blender`, `Figma`, `Canva`, `Heroku`, `Render`, `WordPress`, `Postman`, `Jira`, `Slack`, `VS Code`
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-1CA4B4?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
@@ -98,6 +134,8 @@
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SHRISIVAJ&theme=tokyonight&show_icons=true)  
@@ -120,4 +158,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=SHRISIVAJ&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly generated with ChatGPT & customized by Shri Siva J --> l
+<!-- Proudly generated with ChatGPT & customized by Shri Siva J -->
