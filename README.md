@@ -1,38 +1,123 @@
-# 💫 About Me:
-👋 Hi, I’m Shri Siva J from Erode, currently pursuing B.Tech in AI & Data Science at Erode Sengunthar Engineering College<br>🔭 I’m currently working on Enhancing my knowledge in AI and Data Science through various projects<br>🤝 I’m looking to collaborate on Exciting AI and Data Science projects<br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, Web Development, Augmented Reality and Virtual Reality<br>💬 Ask me about AI, Data Science, Python and Web Development<br>⚡ Fun fact: I’m from Erode and love exploring new innovations in AI!
+# 💫 About Me
+👋 Hi, I’m **Shri Siva J** from Erode, Tamil Nadu.  
+🎓 I’m currently in my final year pursuing B.Tech in **Artificial Intelligence & Data Science** at **Erode Sengunthar Engineering College** (2021–2025).  
+🔭 I’m passionate about building intelligent systems that solve real-world problems using AI.  
+🚀 I’m continuously learning and building projects in **Machine Learning**, **LLMs**, **AR/VR**, and **Web Development**.  
+🤝 Open to collaborating on exciting **AI**, **Data Science**, or **Full-Stack** development projects.  
+💬 Ask me about **Python**, **ML/DL**, **LLMs**, **NLP**, and **Web APIs**.  
+⚡ Fun fact: I’m a builder by passion and love exploring new innovations in AI!
 
+---
 
-## 🌐 Socials:
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shri-siva-j-92b670281)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shri-siva-j-92b670281)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHRISIVAJ)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shrisiva367/)  
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@shrisiva367/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shrisiva367)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@shrisiva367/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shrisiva367)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-site-6a00c.web.app/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrisiva367@gmail.com)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHRISIVAJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SHRISIVAJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISIVAJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHRISIVAJ&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Tech Stack
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Languages & Frameworks**  
+`Python`, `JavaScript`, `HTML5`, `CSS3`, `R`, `C`, `React.js`, `Flask`, `Django`, `Node.js`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHRISIVAJ&limit=5&theme=blue-green)
+**AI / ML / DL**  
+`Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `OpenCV`, `NLP (SpaCy, NLTK)`, `LangChain`, `Hugging Face`, `LLMs (GPT-4, PaLM2, Mistral, LLaMA)`, `Stable Diffusion`, `RAG`, `MLFlow`
+
+**Data Tools**  
+`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Power BI`, `MySQL`, `DBeaver`, `Google Colab`, `Jupyter Notebook`
+
+**Other Tools & Platforms**  
+`Firebase`, `Streamlit`, `Blender`, `Figma`, `Canva`, `Heroku`, `Render`, `WordPress`, `Postman`, `Jira`, `Slack`, `VS Code`
 
 ---
+
+## ✨ Notable Projects & Contributions
+
+- 🤖 **Instagram Auto-Response Chatbot**  
+  Developed an LLM-based chatbot that automatically replies to Instagram DMs using predefined intents and dynamic conversation flows.
+
+- 📋 **Zoho CRM Auto-Filling System**  
+  Engineered a real-time user data extractor and auto form-filler to streamline lead entry and CRM operations using Python.
+
+- 🧠 **LLM-Powered Education Platform**  
+  Built a full-stack platform that auto-evaluates student answers and grades them using GPT-based LLMs. Integrated rich frontend and backend components.
+
+- 📍 **Roadside Tracking AI Chatbot**  
+  Designed a chatbot integrated with GPS and real-time location services to assist in roadside tracking and safety.
+
+- 🧪 **QA Automation & Integration Tools**  
+  Worked on software testing and integration pipelines using **Jira**, **Slack**, **DBeaver**, and **Python**, improving deployment efficiency and code quality.
+
+- 🔎 **YouTube Content Analyzer**  
+  NLP + ML-based tool that generates optimized video titles, descriptions, tags, and hashtags to improve discoverability.
+
+- 🛡️ **Credit Card Fraud Detection**  
+  Built an ML model to detect anomalies and prevent fraudulent credit card transactions with high precision.
+
+- 🌾 **Crop Disease Identifier**  
+  Trained a CNN model to detect and classify plant diseases from image datasets, aiding farmers with early intervention.
+
+- 📈 **Stock Market Forecasting with LSTM**  
+  Implemented a deep learning LSTM model for time-series forecasting of stock prices.
+
+- 📊 **Sales & Crime Data Analytics**  
+  Conducted in-depth analysis and predictive modeling on sales and crime data using pandas, seaborn, and XGBoost.
+
+- 📂 **Resume Builder & Portfolio Projects**  
+  Developed and deployed personal tools such as a Resume Builder and Portfolio Website using React and Firebase.
+
+- 🧭 **Location-Aware Chatbot System**  
+  Integrated GPS data and real-time API calls to enhance chatbot responsiveness based on user location context.
+
+---
+
+## 📚 Certifications
+
+- ✅ Google Data Analytics – Coursera (2023)  
+- ✅ Python for Data Science, AI & Development – Coursera (2023)  
+- ✅ What is Data Science? – Coursera (2023)  
+- ✅ Introduction to Statistics – Coursera (2023)  
+- ✅ Explore ML using Python – Infosys Springboard (2023)  
+- ✅ Machine Learning Foundations – LinkedIn Learning (2023)  
+- ✅ Web Development Masterclass – Udemy (2023)  
+- ✅ AI Tools Workshop – Be10x (2023)  
+- ✅ AI Builders Lab Bootcamp – Google Developers x Hack2Skill (2024)  
+- ✅ SQL (Advanced) – HackerRank (2024)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Prize** – Project Expo for “Object Detection using OpenCV” at Nandha College of Technology, Erode (2023)
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SHRISIVAJ&theme=tokyonight&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SHRISIVAJ&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISIVAJ&theme=tokyonight&layout=compact)
+
+---
+
+## 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=SHRISIVAJ&theme=onedark&no-frame=true&row=1&column=6)
+
+---
+
+## ✍ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=SHRISIVAJ&icon=6&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+<!-- Proudly generated with ChatGPT & customized by Shri Siva J -->
