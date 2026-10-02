@@ -1,12 +1,16 @@
-# 💫 About Me
-👋 Hi, I’m **Shri Siva J** from Erode, Tamil Nadu, India.
-🎓 I’ve completed my B.Tech in **Artificial Intelligence & Data Science** from **Erode Sengunthar Engineering College** (2021–2025).  
-🔭 I’m passionate about building intelligent systems that solve real-world problems using AI.  
-🚀 I’m continuously learning and building projects in **Machine Learning**, **LLMs**, **AR/VR**, and **Web Development**.  
-🧑‍💼 **Ex-Intern at SENA (Chennai)** – Worked as an **LLM Engineer Intern** for 2 months, developing real-time AI chatbots, auto-evaluation platforms, and CRM-integrated solutions.  
-🤝 Open to collaborating on exciting **AI**, **Data Science**, or **Full-Stack** development projects.  
-💬 Ask me about **Python**, **ML/DL**, **LLMs**, **NLP**, and **Web APIs**.  
-⚡ Fun fact: I’m a builder by passion and love exploring new innovations in AI!
+🚀 About Me
+
+👋 Hi, I’m Shri Siva J from Erode, Tamil Nadu, India. I’m an AI Engineer with 2+ years of experience building intelligent, production-focused AI solutions.
+
+🎓 I completed my B.Tech in Artificial Intelligence & Data Science from Erode Sengunthar Engineering College (2021–2025).
+
+🤖 Currently working as an AI Engineer at Hodos360, where I have 1+ year of experience working on AI systems, Large Language Models (LLMs), Generative AI, AI Agents, RAG pipelines, and automation solutions.
+
+💡 I specialize in building practical AI applications that solve real-world business problems, with experience across LLMs, RAG, AI Agents, Python, FastAPI, APIs, workflow automation, and Generative AI.
+
+🚀 I’m also the Founder of Axdox, an AI-first agency focused on AI automation, AI voice agents, AI chatbots, workflow automation, web development, and AI-powered business solutions.
+
+⚡ I’m passionate about learning new AI technologies and turning ideas into scalable, real-world products.
 
 
 
