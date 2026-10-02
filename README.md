@@ -1,6 +1,6 @@
 🚀 About Me
 
-👋 Hi, I’m Shri Siva J from Banglore, Tamil Nadu, India. I’m an AI Engineer with 2+ years of experience building intelligent, production-focused AI solutions.
+👋 Hi, I’m Shri Siva J from Banglore, Karnataka, India. I’m an AI Engineer with 2+ years of experience building intelligent, production-focused AI solutions.
 
 🎓 I completed my B.Tech in Artificial Intelligence & Data Science from Erode Sengunthar Engineering College (2021–2025).
 
