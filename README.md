@@ -4,7 +4,7 @@
 
 🎓 I completed my B.Tech in Artificial Intelligence & Data Science from Erode Sengunthar Engineering College (2021–2025).
 
-🤖 Currently working as an AI Engineer at Hodos360, where I have 1+ year of experience working on AI systems, Large Language Models (LLMs), Generative AI, AI Agents, RAG pipelines, and automation solutions.
+🤖 Currently working as an AI Engineer at Hodos360, where I have 1+ year of experience working on AI systems, Large Language Models (LLMs), Generative AI, AI Agents, RAG pipelines, AI Voice Agent and automation solutions.
 
 💡 I specialize in building practical AI applications that solve real-world business problems, with experience across LLMs, RAG, AI Agents, Python, FastAPI, APIs, workflow automation, and Generative AI.
 
